@@ -2,6 +2,7 @@ body {
 	background-color: gray;
 	width: 75%;
 	margin: auto;
+
 }
 
 header {
@@ -34,7 +35,7 @@ header {
   font: Arial;
   color: #777;
   float:left; 
-  width: 500px;
+  width: 600px;
   height: 300px;
   text-align: center;
   display: inline-block;
@@ -46,7 +47,7 @@ header {
 	padding: 20px;
 	background: #ebebeb;
 	color: #777;
-	width: 300px;
+	width: 525px;
 	height: 300px;
 	display: inline-block;
 	text-align: center;
@@ -57,11 +58,12 @@ header {
 	/*height: 200px;*/
 	width: 470px;
 	color: white;
-	margin-top: 80px;
+	margin-top: 50px;
 	font-size: 18px;
 	text-align: center;
-	margin-left: 10px;
-
+	margin-left: 40px;
+	margin-bottom: 10px;
+	padding-bottom: 20px;
 
 
 	}
@@ -75,11 +77,11 @@ header {
 	width: 400px;
 	text-align: center;
 	margin-bottom: 10px;
-	margin-top: 70px;
+	margin-top: 20px;
 	margin-left: 30px;
 }
 	#hello {
-		background: #FFF;
+		background: #ebebeb;
 	font-size: 18px;
 	font: arial;
 	color: #777;
@@ -89,6 +91,7 @@ header {
 	margin-bottom: 20px;
 	margin-top: 10px;
 	margin-left: 30px;
+
 
 	}
 
